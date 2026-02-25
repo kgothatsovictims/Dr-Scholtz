@@ -485,6 +485,9 @@
     opacity: 0.8;
 }
 
+.fas{
+            margin-right: 10px;
+        }
 
 
         .copyright {
@@ -619,4 +622,5 @@
             .social-icons {
                 justify-content: center;
             }
+
     }
